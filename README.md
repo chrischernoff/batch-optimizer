@@ -10,7 +10,7 @@ A drag-n-drop tool to losslessly compress a folder of PNGs in macOS
 ```
 3. Install imageoptim CLI via the Terminal
 ```
-brew install imageoptim
+brew install imageoptim-cli
 ```
 4. Download [png-optimizer droplet](https://github.com/chrischernoff/png-optimizer/raw/master/png-optimizer.app.zip) and put it somewhere handy (I have it in the Applications folder and saved in the dock).
 5. Drop a folder containing at least 1 PNG onto the droplet. The PNGs in this folder will be **overwritten** with the optimized ones.
