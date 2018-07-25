@@ -12,6 +12,6 @@ A drag-n-drop tool to losslessly compress a folder of PNGs in macOS
 ```
 brew install imageoptim
 ```
-4. Download png-optimizer droplet and put it somewhere handy (I have it in the dock).
+4. Download png-optimizer droplet and put it somewhere handy (I have it in the Applications folder and saved in the dock).
 5. Drop a folder containing at least 1 PNG onto the droplet. The PNGs in this folder will be overwritten with the optimized ones.
 6. When you receive a push notification telling you your images are optimized, you're good to go! While it's processing, you'll see a spinning gear in your menubar, the ImageOptim app will also open and close on its own, this is normal.
