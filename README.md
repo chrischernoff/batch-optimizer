@@ -4,7 +4,7 @@ A drag-n-drop tool to losslessly compress a folder of PNGs in macOS
 ## Installation Instructions
 
 1. Install [ImageOptim.app](https://imageoptim.com/ImageOptim.tbz2) and [ImageAlpha.app](https://pngmini.com/ImageAlpha1.5.1.tar.bz2) if you don't have them already.
-2. Open Terminal.app and install homebrew by copy pasting the following line and pressing return. It may take a few minutes.
+2. If you don't already have [homebrew](https://brew.sh/) installed, open Terminal.app and install it by copy pasting the following line and pressing return. It may take a few minutes.
 ``` 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
