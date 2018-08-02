@@ -1,4 +1,4 @@
-# png-optimizer
+# batch-optimizer
 A drag-n-drop tool to compress a folder of images in macOS. 
 
 PNGs are compressed with ImageAlpha+ImageOptim. JPGs are compressed with ImageOptim.
@@ -14,6 +14,6 @@ PNGs are compressed with ImageAlpha+ImageOptim. JPGs are compressed with ImageOp
 ```
 brew install imageoptim-cli
 ```
-4. Download [png-optimizer droplet](https://github.com/chrischernoff/png-optimizer/raw/master/png-optimizer.app.zip) and put it somewhere handy (I have it in the Applications folder and saved in the dock).
+4. Download [batch-optimizer droplet](https://github.com/chrischernoff/batch-optimizer/raw/master/batch-optimizer.app.zip) and put it somewhere handy (I have it in the Applications folder and saved in the dock).
 5. Drop a file, multiple files, a folder containing images, or some combination of files and folders on the droplet. All source files will be **overwritten** with the optimized ones.
 6. When you receive a push notification telling you your images are optimized, you're good to go! While it's processing, you'll see a spinning gear in your menubar, the ImageOptim.app will also open and close on its own, this is normal.
